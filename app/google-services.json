@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "607347016532",
+    "firebase_url": "https://medicalsystem-f7f81.firebaseio.com",
+    "project_id": "medicalsystem-f7f81",
+    "storage_bucket": "medicalsystem-f7f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607347016532:android:6135778718412d547b7ec1",
+        "android_client_info": {
+          "package_name": "com.example.medicationadherencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607347016532-mr7mfffbv65bj3e1bfv2oepcus3dm03n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicationadherencesystem",
+            "certificate_hash": "ef7311dae0406c8cb6be4195b3175a3608eb0e48"
+          }
+        },
+        {
+          "client_id": "607347016532-6pp1basaovr6k7475v08vo8orahgnp8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicationadherencesystem",
+            "certificate_hash": "7a5e4db985476368ee9c2269f456c3d18f8aa1b3"
+          }
+        },
+        {
+          "client_id": "607347016532-rboobr9bg5dbjbfrrtn3t7bgdvgfgkju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhi2G7w-LksYyup5QLke0Phk9eDNoDto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607347016532-rboobr9bg5dbjbfrrtn3t7bgdvgfgkju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

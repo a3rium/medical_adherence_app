@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Medication Adherence System</string>
+    <string name="futureTimeErrorText">Please Enter A Valid Time</string>
+</resources>
